@@ -6,10 +6,10 @@ This project presents a comprehensive marketing analytics strategy for a partner
 
 # 🏗️ Key Objectives
 
-Perform customer segmentation using K-Means Clustering.
-Develop targeted marketing strategies for distinct customer clusters.
-Optimize event planning and pricing using Linear Regression and Simplex LP methods.
-Forecast revenue and assess campaign effectiveness using A/B testing and predictive models.
+- Perform customer segmentation using K-Means Clustering.
+- Develop targeted marketing strategies for distinct customer clusters.
+- Optimize event planning and pricing using Linear Regression and Simplex LP methods.
+- Forecast revenue and assess campaign effectiveness using A/B testing and predictive models.
 
 # 📊 Analysis Breakdown
 
