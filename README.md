@@ -51,5 +51,5 @@ Forecast revenue and assess campaign effectiveness using A/B testing and predict
 # 🛠️ Tools Used
 
 - Python: For data analysis, optimization, and predictive modeling.
-- Power BI: For data visualization and interactive dashboards.
+- Tableau: For data visualization and interactive dashboards.
 - Excel: For initial data cleaning and revenue projections.
